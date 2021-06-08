@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Kitchenaid\RecipesPlugin
+        psr4_prefix: Kitchenaid\RecipesPlugin
